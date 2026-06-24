@@ -12,8 +12,8 @@ def sample_orders():
     """A small sample DataFrame for testing."""
     return pd.DataFrame(
         {
-            "order_id": [1, 2, 3],
-            "customer": ["Ava", "Ben", "Cara"],
+            "order_id": [1, 2, 3, 4],
+            "customer": ["Ava", "Ben", "Cara", "Luna"],
         }
     )
 
