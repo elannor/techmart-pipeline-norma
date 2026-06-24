@@ -7,8 +7,6 @@
 ![Lint](https://github.com/elannor/techmart-pipeline-norma/actions/workflows/lint.yml/badge.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/elannor/techmart-pipeline-norma)
 
-<mark>*Replace `YOUR_USERNAME/YOUR_REPO` with your details*</mark>
-
 ## Project Overview
 
 A small Python project for TechMart's order data. This scaffold exists to show
